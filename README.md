@@ -1,2 +1,10 @@
 # python-korean_local_election-project
-To predict 2026 Korean local election, studying opinion poll, data science etc. 
+2026년 6월의 대한민국 지방선거를 예측하기 위한 프로젝트 
+
+## 프로젝트 목표
+프로젝트를 통해 프로그래밍 능력, 데이터 처리 능력, 선거 분석 능력 등을 기르고자 함. 
+- Python을 통한 데이터 처리, 시각화 학습. 
+- 선거 분석 관련 논문을 바탕으로 선거의 변수들 학습.
+- 여론조사 취합 및 여론조사 기관의 편향도(House effect) 분석.
+
+
