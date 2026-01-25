@@ -25,3 +25,6 @@ To develop programming skills, data processing skills, election analyzing skills
 - 선거 예측과 관련된 독서, 자료 읽기
 - 면담이나 기타 사고 형성에 관한 것들
 
+### Programming Logs
+- 'Logs/Programming/'
+- 데이터 분석에 관련된 학습들
